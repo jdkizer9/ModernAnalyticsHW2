@@ -1,0 +1,29 @@
+# --------------------
+# OSX Files
+# --------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+*/.idea
+
+framework/data
+program1/data
+program1/figures
+program1/output
+program1/logs
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+#logs are intentionally disabled
+#*.log
+
