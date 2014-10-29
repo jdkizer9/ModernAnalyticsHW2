@@ -27,3 +27,4 @@ __pycache__/
 #logs are intentionally disabled
 #*.log
 
+*.png
